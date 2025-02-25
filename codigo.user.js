@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Consertando os horários do SIGAA UnB
+// @name         Consertando os horários do SIGAA UFPB
 // @namespace    https://github.com/UmBarril
 // @version      1.2.6
-// @icon         https://github.com/UmBarril/ConsertandoHorariosSIGAA/blob/master/images/icon.png?raw=true
+// @icon         https://github.com/UmBarril/ConsertandoHorariosSIGAA-UFPB/blob/master/images/icon.png?raw=true
 // @description  Traduz as informações de horários das turmas no SIGAA da UFPB, de formato pouco entendível, por dias e horas escritas por extenso.
 // @author       João Barros
 // @match        https://sigaa.unb.br/sigaa/*
